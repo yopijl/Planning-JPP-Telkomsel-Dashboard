@@ -1,5 +1,5 @@
 Link Looker: 
-# Telkomsel BOQ Dashboard Semester 1 & 2
+# Planning JPP Telkomsel Dashboard
 
 # Objective: 
 The objective of this project was to create an interactive and informative dashboard using Looker Studio to visualize Telkomsel's data for the first and second semesters. This dashboard allows stakeholders to easily analyze and interpret budget and performance data, enabling more informed decision-making.
