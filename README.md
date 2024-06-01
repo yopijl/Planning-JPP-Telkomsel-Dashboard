@@ -1,6 +1,5 @@
 Link Looker: Privacy
 # Planning JPP Telkomsel Dashboard
-![alt text](https://github.com/yopijl/Planning-JPP-Telkomsel-Dashboard/blob/main/File/dashboard.png?raw=true)
 
 # Objective: 
 The objective of this project was to create an interactive and informative dashboard using Looker Studio to visualize Telkomsel's data for the first and second semesters. This dashboard allows stakeholders to easily analyze and interpret budget and performance data, enabling more informed decision-making.
