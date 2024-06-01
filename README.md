@@ -1,4 +1,4 @@
-Link Looker: 
+Link Looker: Privacy
 # Planning JPP Telkomsel Dashboard
 ![alt text](https://github.com/yopijl/Planning-JPP-Telkomsel-Dashboard/blob/main/File/dashboard.png?raw=true)
 
